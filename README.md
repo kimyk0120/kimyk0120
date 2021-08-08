@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align=center>
 -->
 
-TENSORFLOW DEVELOPER CERTIFICATION  : <img width="30" alt="tensorflow_certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33704914">
+TENSORFLOW DEVELOPER CERTIFICATION  <img width="30" alt="tensorflow_certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33704914">
  
  </br>
  
