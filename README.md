@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <div align=center>
 -->
 
-TENSORFLOW : <img width="30" alt="tensorflow_certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33704914">
+TENSORFLOW DEVELOPER CERTIFICATION  : <img width="30" alt="tensorflow_certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/3370
+  4914">
+ 
+ </br>
+ 
 NVIDIA DLI : https://courses.nvidia.com/certificates/868fd8608010404f980e90b7895c51a7
 
 </br>
