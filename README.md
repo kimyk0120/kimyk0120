@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 </br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&layout=compact)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&layout=compact)
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kimyk0120.github.io/)](https://kimyk0120.github.io/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCWU6U1NYobmaVaPGmXNAETA)](https://www.youtube.com/channel/UCWU6U1NYobmaVaPGmXNAETA) 
