@@ -1,4 +1,4 @@
-### Hi there, Young-Kim's GitHub 👋
+### Young-Kim's GitHub 👋
 
 <!--
 **kimyk0120/kimyk0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
