@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark&layout=compact)![YK's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark&layout=compact) <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark" />
+</a>
 
+
+<!-- ![YK's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark)   -->
 
 
 ### 🌱 Stack
