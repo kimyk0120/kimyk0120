@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 </br>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark&layout=compact)  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark&layout=compact) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark" />
-</a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+<!--   <img style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark" /> -->
+<!-- </a> -->
 
-<!-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimyk0120&&show_icons=true&theme=dark) -->
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimyk0120&&show_icons=true&theme=dark)
 <!-- ![YK's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyk0120&show_icons=true&theme=onedark)   -->
 
 
