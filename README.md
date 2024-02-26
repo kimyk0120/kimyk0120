@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark&layout=compact) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark&layout=compact) -->
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyk0120&theme=onedark) 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
