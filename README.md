@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngkwang-kim-360739244/)
-<!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCWU6U1NYobmaVaPGmXNAETA)](https://www.youtube.com/channel/UCWU6U1NYobmaVaPGmXNAETA) -->
-<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/youngkwangk2)](https://www.facebook.com/youngkwangk2)  -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kimyk0120/)](https://www.instagram.com/kimyk0120/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyk0120@gmail.com)](mailto:kimyk0120@gmail.com)</br>
+<!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCWU6U1NYobmaVaPGmXNAETA)](https://www.youtube.com/channel/UCWU6U1NYobmaVaPGmXNAETA) -->
+<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/youngkwangk2)](https://www.facebook.com/youngkwangk2)  -->
 
 
 
